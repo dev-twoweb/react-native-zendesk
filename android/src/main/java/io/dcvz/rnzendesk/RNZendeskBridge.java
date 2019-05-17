@@ -1,5 +1,7 @@
 package io.dcvz.rnzendesk;
 
+import android.content.Intent;
+
 import zendesk.commonui.UiConfig;
 import zendesk.core.AnonymousIdentity;
 import zendesk.core.Zendesk;
