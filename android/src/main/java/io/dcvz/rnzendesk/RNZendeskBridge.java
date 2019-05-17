@@ -78,8 +78,12 @@ public class RNZendeskBridge extends ReactContextBaseJavaModule {
     public void showNewTicket(ReadableMap options) {
         ArrayList tags = options.getArray("tags").toArrayList();
 
-        RequestActivity.builder()
+        Intent intent = RequestActivity.builder()
                 .withTags(tags)
-                .show(getReactApplicationContext());
+                .intent(getReactApplicationContext());
+        
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        getReactApplicationContext().startActivity(intent);
+        
     }
 }
