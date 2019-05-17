@@ -6,27 +6,27 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Fr+UGvCcvKClzpj+dq8EW1CGNg8=
+		3xvHRZl+f8nJD/tUB0/ex3xzW3A=
 		</data>
 		<key>AwesomeImagePicker.nib/objects-11.0+.nib</key>
 		<data>
-		uNln0Dhn053kqOfIr+Tdc+AR+NU=
+		xhp6Dgr2XZTBBxpKGIpVb88YGoE=
 		</data>
 		<key>AwesomeImagePicker.nib/runtime.nib</key>
 		<data>
-		oitB3rAoauYzrzqT1ClqzVrQ+vo=
+		RbxAeTlQFVvtHgX2gqVxdQCJF9Y=
 		</data>
 		<key>CameraCell.nib</key>
 		<data>
-		5LRACz+aia3wkk8ZGJcGS8G6Oy8=
+		6Yf/85tFhAZ4aj8128Ade+7NRbA=
 		</data>
 		<key>CreateRequest.nib/objects-11.0+.nib</key>
 		<data>
-		7BdGeYqVAOXhUtUa9rqKj0S5SDg=
+		I1HlfxFrR9AH2TUvdae2XkDam5I=
 		</data>
 		<key>CreateRequest.nib/runtime.nib</key>
 		<data>
-		QKUtojUxzvvAKs+Vblz7rq93x/o=
+		euqhxl32hAIn4BoEFvUZFUUN6xo=
 		</data>
 		<key>Headers/ZDKCreateRequestUIDelegate.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Headers/ZendeskSDK-Swift.h</key>
 		<data>
-		dMiVPSjiiyRFYyrgf/VrFK/3+AI=
+		MIO1OkmhTYt6Q7Gq4AevOXW/f0U=
 		</data>
 		<key>Headers/ZendeskSDK.h</key>
 		<data>
@@ -94,19 +94,19 @@
 		</data>
 		<key>ImageCell.nib</key>
 		<data>
-		erZUqw5MlCMhiqnCYYjldLnOW9M=
+		T2DYmmfIdK0J3aJEQqYBaoHM7eg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8/b8OycUyjRc46YeBmKfFNdLIUk=
+		FsfMb8ueCNEMmLyEY2aV2sBU4wo=
 		</data>
 		<key>InputFileCell.nib</key>
 		<data>
-		z7yBLDZtE+T+tLJ+kA3LUAjy0G0=
+		hNF/CiFeoZuHdaSl8ouHcla2xeY=
 		</data>
 		<key>InputImageCell.nib</key>
 		<data>
-		ZconuUVoeD0cfqeHIrB2LtXJJQ4=
+		lj1u9yckS19aL0IPm7Rlccm+Tgs=
 		</data>
 		<key>ModelIdentifier.plist</key>
 		<data>
@@ -114,19 +114,19 @@
 		</data>
 		<key>Modules/ZendeskSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		7Z8VRWHJsZdbffjec4ZIQGp9qEU=
+		MNS0ptJD2c5F6B7G9lpTjCo1gRw=
 		</data>
 		<key>Modules/ZendeskSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		dgC1+rMor3B2xlFPRrQ8atQWhkY=
+		A5AYwoYHtJQ7bkmi+A610XlAYDI=
 		</data>
 		<key>Modules/ZendeskSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OlzrgAUZhvODTccZqG0kexWgnCk=
+		+10/xFr+rYiUJYu72pAOA+g8mfw=
 		</data>
 		<key>Modules/ZendeskSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		A04ZK9GY1w6gz/vu0Gc3QR5rfC8=
+		LciWyo4oj/fJpLs1TGrHQi1iKZo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -134,103 +134,103 @@
 		</data>
 		<key>RequestController.nib/objects-11.0+.nib</key>
 		<data>
-		xvRWfDqCOBlME/q7odlzhXssHws=
+		6dRmooQT9vM++iYYiCd1HDxmF8A=
 		</data>
 		<key>RequestController.nib/runtime.nib</key>
 		<data>
-		wz7fSKSvpKE2IIdOA6jzpPXyHZo=
+		hBoXZcmiTXNsqdWogvJn8zpTSJ0=
 		</data>
 		<key>RequestListTableViewCell.nib</key>
 		<data>
-		Qr8ktjeKd6XXS0kHonFZdU5PnNc=
+		zYUrhWvd7nAGrLQwtJHR2NJ/wbE=
 		</data>
 		<key>RequestListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		ifBsGSGAtw4nIy/TVjj4Z3/+ay4=
+		KoV2JemVzX1BRddpIezi8EFzDuE=
 		</data>
 		<key>RequestListViewController.nib/runtime.nib</key>
 		<data>
-		ETlx/bPvqx0xzJ9rn1qv9+SsC20=
+		tkDuPO8d3E6q6S9f34i7bb1XISk=
 		</data>
 		<key>SidebarCell.nib</key>
 		<data>
-		WkY4nCuWIxn49uxV7qe0CRYB8O8=
+		rPLKIinI+/ZHi4CwrxBQsRTWEgw=
 		</data>
 		<key>ZDKHelpCenterArticleRatingView.nib/objects-11.0+.nib</key>
 		<data>
-		0+sNnRrFjHFWbqLBqVdQEFZj/2Y=
+		h6n0jSS9IEUstXwK/diLclvkeZc=
 		</data>
 		<key>ZDKHelpCenterArticleRatingView.nib/runtime.nib</key>
 		<data>
-		ifht+sH9+473feXuvqnH85L1nzk=
+		w28nyfSI17W3Y7zPj0S6k/v3GIs=
 		</data>
 		<key>ZDKHelpCenterOverviewArticleTableViewCell.nib/objects-11.0+.nib</key>
 		<data>
-		qB322ypD9mlne30LAlqAZ5fsplo=
+		cdHE7WPLPUg1pkWSWnCT8ZUm7qw=
 		</data>
 		<key>ZDKHelpCenterOverviewArticleTableViewCell.nib/runtime.nib</key>
 		<data>
-		mJQsw1WKQLjdTWOshoXB3R7XKyY=
+		5RPEI3oABAPpRNcGSQ/ni6SanEY=
 		</data>
 		<key>ZDKHelpCenterOverviewController.nib/objects-11.0+.nib</key>
 		<data>
-		hwrWl4ccyoXsWrgPP6ZF+baLuAo=
+		DGN+CB7avdKWIHgblUcTWlzA7xA=
 		</data>
 		<key>ZDKHelpCenterOverviewController.nib/runtime.nib</key>
 		<data>
-		pxJcDo0eDOEXIrtYtN9s0jk0l7w=
+		1kIJGvignbqFSdt/kIRxBhc8Eo8=
 		</data>
 		<key>ZDKHelpCenterOverviewFooterView.nib</key>
 		<data>
-		NuxtLkdwuHB6pxrAA74oKYzCgrM=
+		TjubhcRAHXslMbhxTF3kq8E8Kd4=
 		</data>
 		<key>ZDKHelpCenterOverviewHeaderView.nib/objects-11.0+.nib</key>
 		<data>
-		+81XkPID0oAIor/N0a66FSc8F9E=
+		oDbBbZDdkywhVgixX+GDawdK7Ag=
 		</data>
 		<key>ZDKHelpCenterOverviewHeaderView.nib/runtime.nib</key>
 		<data>
-		UPzISrIVKX3HFLLH6JUCbo79qNk=
+		obEQvNd67l7URviVF+zGWVS9yJQ=
 		</data>
 		<key>ZDKHelpCenterOverviewLoadingTableViewCell.nib</key>
 		<data>
-		A5K/I/xj/Fu4O1MECIR4+aHDavs=
+		hDWbdO8l3C8m0L525RZ2bBGi+Us=
 		</data>
 		<key>ZDKHelpCenterOverviewSectionTableViewCell.nib/objects-11.0+.nib</key>
 		<data>
-		CJdRvaSMbKMD3VXw7uj7Cn8oafk=
+		aNG8Imb767Xfs4xNC6LdpQWA7Qg=
 		</data>
 		<key>ZDKHelpCenterOverviewSectionTableViewCell.nib/runtime.nib</key>
 		<data>
-		+gdmx9gZAzVNyzq0UhkfU/m9Ub4=
+		7pAPgCaknbWG6WHgIncr92BqKvc=
 		</data>
 		<key>ZDKHelpCenterOverviewSeeAllTableViewCell.nib/objects-11.0+.nib</key>
 		<data>
-		I8aX+RRgsB6PKripVqmo4Y84hos=
+		EJFu2wCHOl51u5S/x9imFwKGVuw=
 		</data>
 		<key>ZDKHelpCenterOverviewSeeAllTableViewCell.nib/runtime.nib</key>
 		<data>
-		h/O7omdhsM2Ogd6d1CvemKv3uRU=
+		EMrdHqfHqkW1h80XRqq19H/32CE=
 		</data>
 		<key>ZDKHelpCenterOverviewSpacerTableViewCell.nib</key>
 		<data>
-		FbJ//eXxGbCOfjCfxpabOMYxQNo=
+		DL3UghB7iM2WkzzSWzwsZoAkgRw=
 		</data>
 		<key>ZDKHelpCenterSearchResultTableViewCell.nib</key>
 		<data>
-		8pfwY3FlQa/ULyxfPJeJalKl4og=
+		VNKYPpjuka8Ed9+5o13tVJvmF7w=
 		</data>
 		<key>ZDKHelpCenterSearchResultViewController.nib</key>
 		<data>
-		eVqSnaq43oPqGA34B7ZkPLpzNsI=
+		m9BcB7hAdn9+RCANPlWb5T7vkmg=
 		</data>
 		<key>ZendeskLogoView.nib/objects-11.0+.nib</key>
 		<data>
-		1Mh6BF8I3t2rZsTEz5B6ZsGn4CY=
+		uIqcyLZlpoZ1VBu4zge0rSRGI3A=
 		</data>
 		<key>ZendeskLogoView.nib/runtime.nib</key>
 		<data>
-		jP4ayMVJmQrMI2NLNqK66j8mWoM=
+		rbU3iPcGbzVg1mE83lNybHCuqcA=
 		</data>
 		<key>help_center_article_style.css</key>
 		<data>
@@ -291,66 +291,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fr+UGvCcvKClzpj+dq8EW1CGNg8=
+			3xvHRZl+f8nJD/tUB0/ex3xzW3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			75Wvv+WBBh32PpQTq2KKzZn7goULCsBQLv6fqDStwDA=
+			JukDG40+s6VJ7bQc10j0GxSHVjP0gCGPljyyfHBB3nA=
 			</data>
 		</dict>
 		<key>AwesomeImagePicker.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uNln0Dhn053kqOfIr+Tdc+AR+NU=
+			xhp6Dgr2XZTBBxpKGIpVb88YGoE=
 			</data>
 			<key>hash2</key>
 			<data>
-			lbKRcvHOi/HInvd2qSxoFqbUlNF8tOEIOHSSV0k4Iw8=
+			o/lmeDOOkxK3ft3+kR+SOg0muPSBXda8v0yMqijVLy4=
 			</data>
 		</dict>
 		<key>AwesomeImagePicker.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oitB3rAoauYzrzqT1ClqzVrQ+vo=
+			RbxAeTlQFVvtHgX2gqVxdQCJF9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			baYBidoX2sryexnaP65TcnCVHtILi4wrxaa9nO9JN3M=
+			mglTVNvree9dB51dcFgJ01SuXTRhuBZm5QPmldoJZsQ=
 			</data>
 		</dict>
 		<key>CameraCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5LRACz+aia3wkk8ZGJcGS8G6Oy8=
+			6Yf/85tFhAZ4aj8128Ade+7NRbA=
 			</data>
 			<key>hash2</key>
 			<data>
-			TNHnsK8yhNGrf16phPmuyIp9RfrriDd7gZQPjXPakfU=
+			4oM90TwhE5/+ZzSZvPBQB4ptzNj/tGfE76RZO17gu0Y=
 			</data>
 		</dict>
 		<key>CreateRequest.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7BdGeYqVAOXhUtUa9rqKj0S5SDg=
+			I1HlfxFrR9AH2TUvdae2XkDam5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			5nVCJC6Yoz9Ni7mg3MLUDTpZu9++0Jtc4QjV/Eml0Pg=
+			H64Ag3qetxyCb2+ar28pfW9WmatMLOKHcSVu7xJ6iY0=
 			</data>
 		</dict>
 		<key>CreateRequest.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QKUtojUxzvvAKs+Vblz7rq93x/o=
+			euqhxl32hAIn4BoEFvUZFUUN6xo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmKxd6VQhslBT7KNSLiWCHzBzSy1RTxnuTELFuGq4tE=
+			qICTG3aORDG49mnSB+hoPH8HV7m3HIxXYiOq0a68bkU=
 			</data>
 		</dict>
 		<key>Headers/ZDKCreateRequestUIDelegate.h</key>
@@ -511,11 +511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dMiVPSjiiyRFYyrgf/VrFK/3+AI=
+			MIO1OkmhTYt6Q7Gq4AevOXW/f0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			s/QyZaIe2yyY5MgWr7myUvrMqgQcRd5SHEwL+L6Q6qE=
+			38lsfEAPGVyLEutCwtf0nRFGPg3rVdLvPfSYTwo0Zpk=
 			</data>
 		</dict>
 		<key>Headers/ZendeskSDK.h</key>
@@ -533,33 +533,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			erZUqw5MlCMhiqnCYYjldLnOW9M=
+			T2DYmmfIdK0J3aJEQqYBaoHM7eg=
 			</data>
 			<key>hash2</key>
 			<data>
-			zeE4bH/gUOpC8u2lEHoCLJr6MK9zexW9rt4IGwheYNg=
+			WDSo5UUMb+N2yl7KQ2ed1V9u29vewxxxUOAjemjC7xw=
 			</data>
 		</dict>
 		<key>InputFileCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z7yBLDZtE+T+tLJ+kA3LUAjy0G0=
+			hNF/CiFeoZuHdaSl8ouHcla2xeY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XswH0ps7/kOfWJfTq/fRyZG4E3s5NQsKZTjHbEFo1rs=
+			leN5lNsbj3Dx4d6phycjRqaruCWXTqtNRBTEMd99UkM=
 			</data>
 		</dict>
 		<key>InputImageCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZconuUVoeD0cfqeHIrB2LtXJJQ4=
+			lj1u9yckS19aL0IPm7Rlccm+Tgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			yzOnoIxHrfjXb8SVGvdxxqJGqcaYVz6yFiBEejHIbc8=
+			dEwoU2SPWCsDM8ZavCA1kImxP6/+9gbJp1tN5I46OXg=
 			</data>
 		</dict>
 		<key>ModelIdentifier.plist</key>
@@ -577,44 +577,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Z8VRWHJsZdbffjec4ZIQGp9qEU=
+			MNS0ptJD2c5F6B7G9lpTjCo1gRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0967Y04tMcngF2rt+mO06BhU8S6YakLu5GHnE2gIQsw=
+			dpuNuqXLP00uG979gpR6Q5oV6XnPH8GC0VNFJ8sB8HA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dgC1+rMor3B2xlFPRrQ8atQWhkY=
+			A5AYwoYHtJQ7bkmi+A610XlAYDI=
 			</data>
 			<key>hash2</key>
 			<data>
-			EFukJzVgR2jQhcabYuMjjJvKDHNDdFhgqwHgi8nAAWM=
+			PmEnJONk1nnJiS3rE5JozU4odHGPfaSBapyMMYdac24=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OlzrgAUZhvODTccZqG0kexWgnCk=
+			+10/xFr+rYiUJYu72pAOA+g8mfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ukq0xY160Ff82q2qVKVr0IqKtbLRTTvcqDoVj1qrOWE=
+			oO8DS1UxqCxlKuY0pp7bKOma5B760ZKVGEXg3ythX/g=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A04ZK9GY1w6gz/vu0Gc3QR5rfC8=
+			LciWyo4oj/fJpLs1TGrHQi1iKZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4PIuq96uwHjxM9P6g2JZi3PObF6k6zQSkeR5l2BAtP4=
+			fORhq5XTQAShGETHN8FygOPQlS/+GOjOFwjWvcbqNeA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -632,275 +632,275 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvRWfDqCOBlME/q7odlzhXssHws=
+			6dRmooQT9vM++iYYiCd1HDxmF8A=
 			</data>
 			<key>hash2</key>
 			<data>
-			wxsZ6OaUcCBnDi+AVvkylllubHPp13/H6Tftpi3mOso=
+			gmMuASzC16bJDnP1IgQE+NgDY1prHKM2YyczOgsIpUI=
 			</data>
 		</dict>
 		<key>RequestController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wz7fSKSvpKE2IIdOA6jzpPXyHZo=
+			hBoXZcmiTXNsqdWogvJn8zpTSJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BDbvtdX2nip56HPJ32B7QpJ7XLzjf5obwTl8g0BJi8I=
+			mewuxgEa0aXjASU9FIV1fhDG0Ka4fv/itv3sXBxBdks=
 			</data>
 		</dict>
 		<key>RequestListTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qr8ktjeKd6XXS0kHonFZdU5PnNc=
+			zYUrhWvd7nAGrLQwtJHR2NJ/wbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			m2sS4MwCA5nLY9te+x2uVUhOqRY8bqJLGL7ud5ojUUQ=
+			hAkv3DdTi2Y0GnnxfCPiviEh0rLXz/hZUE8f+5BTAOA=
 			</data>
 		</dict>
 		<key>RequestListViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ifBsGSGAtw4nIy/TVjj4Z3/+ay4=
+			KoV2JemVzX1BRddpIezi8EFzDuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UATXT2pRxmQtpdkAlTnILjsJeByYial6ZwrEq6iiLPQ=
+			5hfVVOb+DudfBEWzZjti75HaOkdRvQLSpJslyfzckis=
 			</data>
 		</dict>
 		<key>RequestListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ETlx/bPvqx0xzJ9rn1qv9+SsC20=
+			tkDuPO8d3E6q6S9f34i7bb1XISk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VFuPnhUl8zf28KHtE3SRk2sjgH2IYEsuxlznMe7+wjI=
+			7NEQCLqmXF0sDGhBlUlesov3vBUbRNO63KihV5PeHdY=
 			</data>
 		</dict>
 		<key>SidebarCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WkY4nCuWIxn49uxV7qe0CRYB8O8=
+			rPLKIinI+/ZHi4CwrxBQsRTWEgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			lO0EZenhbPMW5H9Xf4fV217vPwVTw+2zcPIst3VTdl8=
+			wzavkNX7A3Jmq/PyLK6FdSItM5BBusTz2+fL0NSlvQM=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterArticleRatingView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0+sNnRrFjHFWbqLBqVdQEFZj/2Y=
+			h6n0jSS9IEUstXwK/diLclvkeZc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YsY+/FbVS/KRgyNYR7kQOJ3QGgOSs3UMRWKRu4+onN8=
+			vvk0W6Pe0U1Ql+LGeBItJEsqd4VOlW5qzvhwoAkdeHI=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterArticleRatingView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ifht+sH9+473feXuvqnH85L1nzk=
+			w28nyfSI17W3Y7zPj0S6k/v3GIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			RT0P7yEZ6e6UGMOA3zWv0Q04kNZ4TPsFRWFZ3CzG1/w=
+			keq6wiE53Fy9CaXFyee3AsmmBbBBJVAAQrZsBFUjGb4=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewArticleTableViewCell.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qB322ypD9mlne30LAlqAZ5fsplo=
+			cdHE7WPLPUg1pkWSWnCT8ZUm7qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			hI+RZaAVHOD4/ttmd13zLOfdPan20ApaXtdOcaYLCOI=
+			7YioYxiJh9xRCM7FRSBuLXyxnQjwjZDjJzOWzAUgVbM=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewArticleTableViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mJQsw1WKQLjdTWOshoXB3R7XKyY=
+			5RPEI3oABAPpRNcGSQ/ni6SanEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4qEds8eG7368jZ9KgTCgn3xrBDdzQHzN206sa3Km0ys=
+			dQqQIv/SK9FPlcCsa88Z/uyy1+PJwcvCFcsAwJ1hNUM=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hwrWl4ccyoXsWrgPP6ZF+baLuAo=
+			DGN+CB7avdKWIHgblUcTWlzA7xA=
 			</data>
 			<key>hash2</key>
 			<data>
-			WsnLGOGFave3/24VW5vn0MR92RHf6UUj5pb9zDWO8j4=
+			tgXwIbKQS9u+VX2XXrxaiQSXBdTkg6D3ICJic7u7wLo=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pxJcDo0eDOEXIrtYtN9s0jk0l7w=
+			1kIJGvignbqFSdt/kIRxBhc8Eo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zAyI/i8mJr6p7OZQysiiHWyZ8ug9v9MCbTrrZJYuUfY=
+			aOLDBUXq8qblxVonq72cnE4ggnCrdFaG9Xpyg+udDGs=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewFooterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NuxtLkdwuHB6pxrAA74oKYzCgrM=
+			TjubhcRAHXslMbhxTF3kq8E8Kd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h7qK53zdoTk9jxOrmzlH56fpfOdlpQf5pVHwD6yeeU8=
+			8GhVCiKBjdm2+4qbBgvQ2qexfIzXHsnw6KCwOFSM0uk=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewHeaderView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+81XkPID0oAIor/N0a66FSc8F9E=
+			oDbBbZDdkywhVgixX+GDawdK7Ag=
 			</data>
 			<key>hash2</key>
 			<data>
-			vBEEE6VhJ2Zf8m5dBTtxXGCsz2DrQmPgUeLfg2d2H8M=
+			YNLZG1GdWQ+v3lPMbDlKfZFScMj2THabSlQREY8svws=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewHeaderView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UPzISrIVKX3HFLLH6JUCbo79qNk=
+			obEQvNd67l7URviVF+zGWVS9yJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uTnrKgq6NtkhYkDWRz8Oo4K7gM+HE9cTePyNSnjAs7M=
+			i4JTUX1ixDynth17g5cNYwiMnhPooTMi7QozzAZitBM=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewLoadingTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A5K/I/xj/Fu4O1MECIR4+aHDavs=
+			hDWbdO8l3C8m0L525RZ2bBGi+Us=
 			</data>
 			<key>hash2</key>
 			<data>
-			xZS4WmNxXUK+k7mMUPAw+XewWqevtK9Lq/j92CuOXrA=
+			yW4QPxYntc+jXf0CuFEd7a8W5njfE4I45iuwnR8m+VE=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewSectionTableViewCell.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CJdRvaSMbKMD3VXw7uj7Cn8oafk=
+			aNG8Imb767Xfs4xNC6LdpQWA7Qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			b0x4uF8CYtuWdz+4HBX/tmtFFQ3x/QI7sqIVLMepeNw=
+			c33JaBlFu9196A16knBCtBpyLV/mvHZDpZsc7II4g5M=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewSectionTableViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+gdmx9gZAzVNyzq0UhkfU/m9Ub4=
+			7pAPgCaknbWG6WHgIncr92BqKvc=
 			</data>
 			<key>hash2</key>
 			<data>
-			sSxF9xyUPJIeE/sRgeRCkQBN4hV1UNNOmwcCwn6zL8M=
+			EwtNX0iNfoUMtf+2PrFYqyTGqtU3ycPasoY87c74LIk=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewSeeAllTableViewCell.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I8aX+RRgsB6PKripVqmo4Y84hos=
+			EJFu2wCHOl51u5S/x9imFwKGVuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			D+fxL6S8BWm5DAk86qosGKgntInYyPLM6DyJmLRUNfo=
+			mDKCLs0VjmBaCoFxl4ybmDQxM6iaSR9224srZcfO0QU=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewSeeAllTableViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h/O7omdhsM2Ogd6d1CvemKv3uRU=
+			EMrdHqfHqkW1h80XRqq19H/32CE=
 			</data>
 			<key>hash2</key>
 			<data>
-			b5vz2UOYxCjDDctRta93lMDcy46R0WltXO1To+excMI=
+			69ORl2e35BkfasRpLSTvCEt+w1ILnHP0Ec4eJcrh7gQ=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterOverviewSpacerTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FbJ//eXxGbCOfjCfxpabOMYxQNo=
+			DL3UghB7iM2WkzzSWzwsZoAkgRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			CDqhX8VCA6XtIxoex88Sf8tqFUSAf+tCyB4wnZtvuCM=
+			LHO4/BZ7jzzQ07sIukdtYP6CpnSHVwkIl5wB7QKEpn4=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterSearchResultTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8pfwY3FlQa/ULyxfPJeJalKl4og=
+			VNKYPpjuka8Ed9+5o13tVJvmF7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			f9LRJTM9qlRiy3h0qkUGPGIihuT9srkmCDc/mvtenu4=
+			1Ej133CjqV6ZFqWGUOJeKhOkS3WpwEsoDCarbJL3Ikw=
 			</data>
 		</dict>
 		<key>ZDKHelpCenterSearchResultViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eVqSnaq43oPqGA34B7ZkPLpzNsI=
+			m9BcB7hAdn9+RCANPlWb5T7vkmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WHXDV4LL963aHGooUoZCyAllUWXBl5giVvmhj5iyweo=
+			DNGiPyIe3FHPMJeFNhOYfivuT3Rzg5qZoJ49U80Rfw4=
 			</data>
 		</dict>
 		<key>ZendeskLogoView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1Mh6BF8I3t2rZsTEz5B6ZsGn4CY=
+			uIqcyLZlpoZ1VBu4zge0rSRGI3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			YQi5xghYQE233W8P7X+kSRz2fzeIi9gu/wnHE4KkKGE=
+			wvxPzn2Nu2ONaR1IGc2vfvIL8XRqLeH6ENIrnuZZD6E=
 			</data>
 		</dict>
 		<key>ZendeskLogoView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jP4ayMVJmQrMI2NLNqK66j8mWoM=
+			rbU3iPcGbzVg1mE83lNybHCuqcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			elEPDs/fS+WkGCw3wJPAMBhgJLCp6ryohagfcj+ES84=
+			iqjbsmCt0+BMQAgcfNWLLywSQDFo6/mgdZhqIRIesEA=
 			</data>
 		</dict>
 		<key>help_center_article_style.css</key>
@@ -1049,7 +1049,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -1080,24 +1080,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -1133,13 +1121,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

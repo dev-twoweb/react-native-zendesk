@@ -66,11 +66,12 @@ public class RNZendeskBridge extends ReactContextBaseJavaModule {
         UiConfig hcConfig = HelpCenterActivity.builder()
                 .withContactUsButtonVisible(!(options.hasKey("hideContactSupport") && options.getBoolean("hideContactSupport")))
                 .config();
-        HelpCenterActivity.builder()
+        Intent intent = HelpCenterActivity.builder()
                 .withContactUsButtonVisible(true)
-                .show(getReactApplicationContext(), hcConfig);
-//        HelpCenterActivity.builder()
-//                .show(getReactApplicationContext(), hcConfig);
+                .intent(getReactApplicationContext(), hcConfig);
+
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        getReactApplicationContext().startActivity(intent);
     }
 
     @ReactMethod
